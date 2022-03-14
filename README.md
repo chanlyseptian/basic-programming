@@ -1,2 +1,2 @@
 # basic-programming
-Just basic programming for exercise
+Just basic programming for practice
